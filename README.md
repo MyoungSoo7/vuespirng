@@ -6,4 +6,4 @@
 - thymeleaf
 - jpa(mariadb)
 - vue3(yarn)
-![image](https://github.com/MyoungSoo7/vuespirng/assets/13523622/1f909fc6-9aa5-41b5-9c3d-44b25e3389cb)
+ 
