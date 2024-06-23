@@ -1,4 +1,4 @@
-<h1>구성</h1>
+## 구성
 - java17
 - springboot3(gradle)
 - thymeleaf
